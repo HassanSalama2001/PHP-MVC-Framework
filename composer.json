@@ -1,0 +1,15 @@
+{
+    "name": "hmo/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Hmo\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HassanSalama2001",
+            "email": "elprincemohamed2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
